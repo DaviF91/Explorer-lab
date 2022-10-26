@@ -25,9 +25,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="CSS" title="css 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- <img align="center" alt="HTML" title="HTML 5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | <img align="center" alt="CSS" title="CSS 3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="JSON" title="Node" height="30" width="40" src="./readme/json.png">
+- <img align="center" alt="Js" title="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> | <img align="center" alt="JSON" title="JSON" height="30" width="40" src="./readme/json.png">
 
 - [<img align="center" alt="Node" title="Node" height="80" width="70" src="./readme/node.svg"> | <img align="center" alt="NPM" title="NPM" height="70" width="80" src="./readme/npm.svg">](https://nodejs.org/)
 - [<img align="center" alt="Vite" title="Vite" height="40" width="50" src="./readme/vite.png">](https://vitejs.dev/)
